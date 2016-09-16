@@ -1,0 +1,30 @@
+body {
+  padding: 10px 20% 10px;
+  text-align: center;
+}
+
+main, aside {
+  padding: 10px;
+  border: 1px black solid;
+  background-color: #EEEEEE;
+}
+
+main section {
+  padding: 0 30% 0;
+  font-size: 3em;
+}
+
+main section button {
+  height: 3em;
+  min-width: 5em;
+}
+
+aside hr {
+  width: 60%;
+}
+
+aside ol {
+  font-size: 2em;
+  margin: 0 30% 0;
+}
+Contact GitHub API Training Shop Blog About
